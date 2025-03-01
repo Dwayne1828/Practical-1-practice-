@@ -1,7 +1,9 @@
 
 num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
-if num1 == num2:
-    print("Equal")
-else:
-    print("Not Equal")
+print(f"The Product of {num1} and {num2} is: {num1*num2}")
+
+  
+        
+
+   
